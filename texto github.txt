@@ -1,0 +1,14 @@
+XML para o design da interface do usuário
+ViewBinding para ligação dos elementos de interface.
+
+Intent para comunicar informações entre atividades.
+Permissão para acessar o alarme do dispositivo.
+
+
+View 
+ImageView 
+EditText 
+CompatButton
+Button
+
+setOnClickListener

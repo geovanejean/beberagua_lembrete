@@ -5,7 +5,7 @@ Esse App lembra o usuario a beber agua, e a pessoa pode criar um alarme no celul
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="/result/i2.png" width="260">&emsp;<img src="/result/i3.png" width="260"><img src="/result/i4.png" width="260">&emsp;<img src="/result/i5.png" width="260">&emsp;
+<img src="/result/i1.png" width="260">&emsp;<img src="/result/i2.png" width="260">&emsp;<img src="/result/i3.png" width="260"><img src="/result/i4.png" width="260">&emsp;<img src="/result/i5.png" width="260">&emsp;<img src="/result/i6.png" width="260">&emsp;
 
 ## Tecnologias
 * Kotlin
